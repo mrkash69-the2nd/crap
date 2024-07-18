@@ -1,3 +1,3 @@
 # US
-Dest=84;CompatibleSystemSoftwareVersion=0.0000-;
+Dest=84;CompatibleSystemSoftwareVersion=1.0000-;
 Dest=84;ImageVersion=FFFFFFFF;SystemSoftwareVersion=4.9200;CDN=http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP;CDN_Timeout=30;
